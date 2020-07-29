@@ -1,0 +1,24 @@
+{
+    "name": "seo-optimisation-website",
+    "version": "1.0.0",
+    "description": "A coursework on SEO",
+    "main": "index.html",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/veronicakolarska/seo-optimisation-website.git"
+    },
+    "keywords": [
+        "seo",
+        "coursework"
+    ],
+    "author": "Veronica Kolarska",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/veronicakolarska/seo-optimisation-website.git"
+    },
+    "homepage": "https://github.com/veronicakolarska/seo-optimisation-website.git",
+    "dependencies": {
+        "@fancyapps/fancybox": "^3.5.7"
+    }
+}
