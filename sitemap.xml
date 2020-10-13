@@ -5,33 +5,33 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
     xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
-        <loc>http://veronicakolarska.com/</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/gallery.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/gallery.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/contact.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/contact.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/privacy.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/privacy.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/terms.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/terms.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/articles/Brno.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/articles/Brno.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/articles/vienna.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/articles/vienna.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/articles/Budapest.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/articles/Budapest.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/articles/Iskar-Panega.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/articles/Iskar-Panega.html</loc>
     </url>
     <url>
-        <loc>http://veronicakolarska.com/articles/single-day-around-Sofia.html</loc>
+        <loc>https://veronicakolarska.github.io/seo-optimisation-website/articles/single-day-around-Sofia.html</loc>
     </url>
 </urlset>
