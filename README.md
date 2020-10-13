@@ -1,7 +1,7 @@
-# SEO Optimization
 # SEO Optimization Website - University Project
 
-An example project on SEO.
+This is a University Project for SEO course.
+
 ## About TravelRs
 
 * TravelRs is a small travel blog about the Bulgarian nature and sightseeing around European cities.
